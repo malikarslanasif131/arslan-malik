@@ -17,4 +17,16 @@
             "ArslanMalik\\": "src/"
         }
     }
+    {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/malikarslanasif131/arslan-malik"
+        }
+    ],
+    "require": {
+        "malikarslanasif131/arslan-malik": "1.0.0"
+    }
+}
+
 }
